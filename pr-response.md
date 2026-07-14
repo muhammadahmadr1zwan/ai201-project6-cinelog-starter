@@ -104,7 +104,10 @@ git rebase origin/main
 
 Screenshot of `git log --oneline` on `feature/watchlist` (conventional commits, no merge commits):
 
+![git log --oneline on feature/watchlist](gitlog.png)
+
 ```
+29c5e75 docs: sync commit history in pr-response.md
 abd95d0 docs: add pr-response.md with visibility and sort order decisions
 5f96a3e test: add watchlist deduplication, remove, and sort order tests
 ed39712 feat: add remove_from_watchlist endpoint and optional public parameter
