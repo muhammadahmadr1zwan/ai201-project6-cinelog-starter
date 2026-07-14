@@ -105,7 +105,7 @@ git rebase origin/main
 Screenshot of `git log --oneline` on `feature/watchlist` (conventional commits, no merge commits):
 
 ```
-f2242c6 docs: add pr-response.md with visibility and sort order decisions
+abd95d0 docs: add pr-response.md with visibility and sort order decisions
 5f96a3e test: add watchlist deduplication, remove, and sort order tests
 ed39712 feat: add remove_from_watchlist endpoint and optional public parameter
 3f1be35 fix: update WatchlistEntry film_id to UUID after main branch refactor
